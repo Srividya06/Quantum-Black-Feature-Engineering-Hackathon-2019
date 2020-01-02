@@ -15,3 +15,16 @@ Data Description
 4. Vehicle Specifications — Different vehicle technical specifications which comes from the manufacturer of the car.
 
 
+To Create
+
+1. Engine Features (engine_features.csv)
+2. Drive Features (drive_features.csv)
+3. Weather Features (weather_features.csv)
+
+
+Rank Obtained
+89
+
+
+
+
